@@ -1,0 +1,27 @@
+.app{
+    display: flex;
+}
+.sidebar{
+  width: 15%;
+  height: 50vh;
+  background-color:rgb(236, 178, 102);
+  padding: 20px 10px;
+  display: flex;
+  flex-direction: column;
+}
+.logo-menu{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: aliceblue;
+}
+.menu{
+    color: rgb(17, 17, 17);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.configuracion{   
+    font-size: 20px;
+    margin-top: 60px;
+}
